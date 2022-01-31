@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+.containers{
+    border: 10px dashed peru;
+    border-radius: 10px;
+    border-width: 12px;
+   
+   
+}
+button{
+    margin: 70px 70px 50px 70px;
+    padding: 30px 30px 20px 20px;
+    font-style: italic;
+    font-weight: 800;
+    
+    background-color:black;
+    box-shadow: rgb(190, 14, 14);
+    border-radius: 10px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+   
+
+}
+.umerulla{
+    border: 20px groove goldenrod;
+    border-radius: 20px;
+}
+.box{
+    background-color: indigo;
+    border: 10px dashed yellow;
+}
+.pic1:hover{
+    border: 3px dashed black;
+    border: 3px solid yellow;
+
+    background-color: yellowgreen;
+}
